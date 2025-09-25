@@ -1,0 +1,23 @@
+*{
+    margin:20px;
+    box-sizing: border-box;
+}
+
+
+.box1{
+   width: 900px;
+   height: 700px;
+color:rgb(223, 240, 223);
+    border: 40px solid rgb(176, 154, 154);
+    padding:30px 40px 10px;
+    margin: 40px;
+
+}
+.box2{
+
+   height: 500px;
+color:rgb(21, 131, 21);
+    border: 40px solid(176, 154, 154);
+    padding:30px 40px 10px;
+    margin: 40px;
+}
